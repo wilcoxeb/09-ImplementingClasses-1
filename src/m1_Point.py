@@ -199,6 +199,7 @@ def run_test_init():
     print('Expected for p2: 100 -40')
     print('Actual for p2:  ', p2.x, p2.y)
 
+
 def run_test_repr():
     """
     Tests the   __repr__   method of the Point class.
